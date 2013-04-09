@@ -1,5 +1,12 @@
 # Molokai Color Scheme for Vim
 
+### 注意事項
+
+※ これは tomasr さんが作成してくれた molokai の背景色やビジュアル選択の細かな色調整を行ったものです。  
+※ original は https://github.com/tomasr/molokai を参照してください。
+
+### ここから下は original の Readme
+
 Molokai is a Vim port of the monokai theme for TextMate originally created by Wimer Hazenberg.
 
 By default, it has a dark gray background based on the version created by Hamish Stuart Macpherson for the E editor.
